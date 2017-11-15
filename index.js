@@ -27,7 +27,7 @@ sayHi(){
 }
 Ceo extends BoardMember {
   
-  super.hireEmployee(){
+  hireEmployee(){
     return 'Welcome aboard'
   }
 }
